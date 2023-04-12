@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+	<androidx.appcompat.widget.Toolbar android:theme="resourceId:0x7f0e016f" android:id="false" android:background="3f51b5" android:layout_width="-1" android:layout_height="{2:2130903043}" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" />
+	<com.google.android.material.tabs.TabLayout android:theme="resourceId:0x7f0e016f" android:id="false" android:background="3f51b5" android:layout_width="-1" android:layout_height="-2" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="false">
+		<com.google.android.material.tabs.TabItem android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Home" android:textDirection="1" style="resourceId:0x7f0e00e8" />
+		<com.google.android.material.tabs.TabItem android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="5 Years" android:textDirection="1" />
+		<com.google.android.material.tabs.TabItem android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="10 Years" />
+		<com.google.android.material.tabs.TabItem android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Contact" />
+	</com.google.android.material.tabs.TabLayout>
+	<androidx.viewpager.widget.ViewPager android:id="false" android:layout_width="426dp" android:layout_height="634dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="false" />
+</androidx.constraintlayout.widget.ConstraintLayout>

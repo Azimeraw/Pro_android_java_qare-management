@@ -1,0 +1,32 @@
+Summary for /storage/emulated/0/show-java/sources/com.example.prote/jar-files/0.jar
+Decompiled with CFR 0.0
+
+
+com.github.barteksc.pdfviewer.CacheManager
+----------------------------
+
+upPartIfContained(int int float float android.graphics.RectF int )
+  Unable to fully structure code
+
+
+com.github.barteksc.pdfviewer.scroll.DefaultScrollHandle
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Statement already marked as first in another block
+
+
+com.readystatesoftware.sqliteasset.SQLiteAssetHelper
+----------------------------
+
+getWritableDatabase()
+  Unable to fully structure code
+
+
+com.shockwave.pdfium.PdfiumCore
+----------------------------
+
+renderPage(com.shockwave.pdfium.PdfDocument android.view.Surface int int int int int boolean )
+  Loose catch block
+renderPageBitmap(com.shockwave.pdfium.PdfDocument android.graphics.Bitmap int int int int int boolean )
+  Loose catch block

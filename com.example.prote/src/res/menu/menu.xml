@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="false" android:title="Profile" />
+	<item android:id="false" android:title="Rate Us" />
+	<item android:id="false" android:title="About" />
+	<item android:id="false" android:title="Share" />
+	<item android:title="Other">
+		<menu>
+			<item android:id="false" android:title="Order" />
+			<item android:id="false" android:title="Support" />
+		</menu>
+	</item>
+</menu>
